@@ -1,1 +1,1 @@
-# rock-paper-siccors-Grishma
+# rock-paper-scissor-boilerplate
